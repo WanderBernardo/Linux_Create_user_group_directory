@@ -1,9 +1,9 @@
 # Create User, Group and Directory Linux
 The goal this repository is show a bash file that it can be used to create new user in Linux.
 
-**Infraestrutura como código (IaC)** é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais.
+**Infrastructure as Code (IaC)** is the management and provisioning of infrastructure through code, rather than manual processes.
 
-Com a IaC, são criados arquivos de configuração que incluem as especificações da sua infraestrutura, facilitando a edição e a distribuição de configurações. Ela também assegura o provisionamento do mesmo ambiente todas as vezes. (Fonte: Red Hat - https://www.redhat.com/)
+With IaC, you create configuration files that include the specifications of your infrastructure, making it easy to edit and distribute configurations. It also ensures that the same environment is provisioned every time. (Fonte: Red Hat - https://www.redhat.com/)
 
 
 ```
